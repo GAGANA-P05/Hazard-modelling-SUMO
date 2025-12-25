@@ -1,0 +1,7 @@
+<!-- rerouter.xml -->
+<rerouter>
+    <interval begin="300" end="900">
+        <closingLaneReroute id="main_road_0" allow="" disallow="all"/>
+        <destProbReroute id="alternative_route" probability="1.0"/>
+    </interval>
+</rerouter>
