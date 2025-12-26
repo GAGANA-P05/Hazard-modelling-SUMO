@@ -1,0 +1,4 @@
+<!-- Create additional file: opposite.add.xml -->
+<additional>
+    <edgeData id="opposite_data" file="output.xml" excludeEmpty="true"/>
+</additional>
